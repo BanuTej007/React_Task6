@@ -1,0 +1,20 @@
+.homepage{
+    color: rgb(255, 255, 255);
+    margin-top: 150px;
+    margin-left: 48px;
+}
+.page{
+    margin: 48px;
+    color: rgb(255, 255, 255);
+}
+
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size: x-large;
+    font-family:"Cambria"
+}
+html,body,div{
+    background-color: rgb(44, 42, 42);
+}
